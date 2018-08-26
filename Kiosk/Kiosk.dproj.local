@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/08/31 23:45:57.000.088,=C:\Users\BryanGarcia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/01 11:55:38.000.575,=C:\Users\BryanGarcia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/09/01 13:37:44.000.761,=C:\Users\BryanGarcia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/18 10:51:55.000.146,=C:\Users\BryanGarcia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/01/18 11:01:13.000.014,=C:\_Projects\Kiosk 2\Kiosk\Main.pas</Transaction>
+    <Transaction>2017/01/18 11:01:52.000.220,C:\_Projects\Kiosk 2\Kiosk\Main.pas=</Transaction>
+    <Transaction>2017/01/18 11:03:09.000.499,=C:\_Projects\Kiosk 2\Kiosk\Main.pas</Transaction>
+    <Transaction>2017/01/18 11:05:12.000.727,C:\Users\BryanGarcia\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\_Projects\Kiosk 2\Kiosk\Kiosk.dproj</Transaction>
+    <Transaction>2018/03/10 20:08:13.000.243,C:\Projects\HRIS v4\Base\BasePopup2.dfm=C:\Projects\HRIS v4\Base\BasePopup.dfm</Transaction>
+    <Transaction>2018/03/10 20:08:13.000.243,C:\Projects\HRIS v4\Base\BasePopup2.pas=C:\Projects\HRIS v4\Base\BasePopup.pas</Transaction>
+  </Transactions>
+</BorlandProject>

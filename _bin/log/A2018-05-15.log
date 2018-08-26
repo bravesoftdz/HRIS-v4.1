@@ -1,0 +1,35 @@
+HRISWeb.exe: 00001080: 12:14:31 []:>--------------------------------------------------------------<
+HRISWeb.exe: 00001080: 12:14:31 [TUniServerModule]:Server First Init.
+HRISWeb.exe: 00001080: 12:14:31 [TUniServerModule]:Debug Mode = ON
+HRISWeb.exe: 00001080: 12:14:31 [TUniServerModule]:Erasing Cache Folder...
+HRISWeb.exe: 00001080: 12:14:31 [TUniServerModule]:Cache Folder Erased. <7> Files deleted.
+HRISWeb.exe: 00001080: 12:14:31 [TUniServerModule]:Starting HTTP Server...
+HRISWeb.exe: 00001080: 12:14:31 [TUniServerModule]:HTTP Server Started. Port: 8077
+HRISWeb.exe: 000026F0: 12:15:24 [Missing Connection or ConnectionString-127.0.0.1]:EDatabaseError : Missing Connection or ConnectionString : Addr: $00634D0B
+HRISWeb.exe: 000026F0: 12:15:25 [Missing Connection or ConnectionString-127.0.0.1]:EDatabaseError : Missing Connection or ConnectionString : Addr: $00634D0B
+HRISWeb.exe: 00001F7C: 12:15:26 [Missing Connection or ConnectionString-127.0.0.1]:EDatabaseError : Missing Connection or ConnectionString : Addr: $00634D0B
+HRISWeb.exe: 00001F7C: 12:15:26 [Missing Connection or ConnectionString-127.0.0.1]:EDatabaseError : Missing Connection or ConnectionString : Addr: $00634D0B
+HRISWeb.exe: 00000B78: 12:15:27 [Missing Connection or ConnectionString-127.0.0.1]:EDatabaseError : Missing Connection or ConnectionString : Addr: $00634D0B
+HRISWeb.exe: 00000B78: 12:15:28 [Missing Connection or ConnectionString-127.0.0.1]:EDatabaseError : Missing Connection or ConnectionString : Addr: $00634D0B
+HRISWeb.exe: 00002E10: 12:15:28 [Missing Connection or ConnectionString-127.0.0.1]:EDatabaseError : Missing Connection or ConnectionString : Addr: $00634D0B
+HRISWeb.exe: 000016A8: 12:16:25 []:>--------------------------------------------------------------<
+HRISWeb.exe: 000016A8: 12:16:26 [TUniServerModule]:Server First Init.
+HRISWeb.exe: 000016A8: 12:16:26 [TUniServerModule]:Debug Mode = ON
+HRISWeb.exe: 000016A8: 12:16:26 [TUniServerModule]:Erasing Cache Folder...
+HRISWeb.exe: 000016A8: 12:16:26 [TUniServerModule]:Cache Folder Erased. <13> Files deleted.
+HRISWeb.exe: 000016A8: 12:16:26 [TUniServerModule]:Starting HTTP Server...
+HRISWeb.exe: 000016A8: 12:16:26 [TUniServerModule]:HTTP Server Started. Port: 8077
+HRISWeb.exe: 0000199C: 12:16:28 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007A1994
+HRISWeb.exe: 00001660: 14:51:16 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007A1994
+HRISWeb.exe: 00002A94: 15:10:25 []:>--------------------------------------------------------------<
+HRISWeb.exe: 00002A94: 15:10:25 [TUniServerModule]:Server First Init.
+HRISWeb.exe: 00002A94: 15:10:25 [TUniServerModule]:Erasing Cache Folder...
+HRISWeb.exe: 00002A94: 15:10:25 [TUniServerModule]:Cache Folder Erased. <5> Files deleted.
+HRISWeb.exe: 00002A94: 15:10:25 [TUniServerModule]:Starting HTTP Server...
+HRISWeb.exe: 00002A94: 15:10:25 [TUniServerModule]:HTTP Server Started. Port: 8077
+HRISWeb.exe: 000027E0: 15:42:11 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007A1994
+HRISWeb.exe: 00002FCC: 16:17:55 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007A1994
+HRISWeb.exe: 000013EC: 16:35:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007A1994
+HRISWeb.exe: 000013EC: 16:35:36 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007A1994
+HRISWeb.exe: 000026A4: 17:23:29 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007A1994
+HRISWeb.exe: 0000290C: 17:40:19 [127.0.0.1]:EUniSessionException : Invalid session or session Timeout. : Addr: $007A1994

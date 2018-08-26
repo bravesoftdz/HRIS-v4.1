@@ -1,0 +1,55 @@
+HRISWeb.exe: 00001938: 10:31:57 []:>--------------------------------------------------------------<
+HRISWeb.exe: 00001938: 10:31:57 [TUniServerModule]:Server First Init.
+HRISWeb.exe: 00001938: 10:31:57 [TUniServerModule]:Erasing Cache Folder...
+HRISWeb.exe: 00001938: 10:31:57 [TUniServerModule]:Cache Folder Erased. <5> Files deleted.
+HRISWeb.exe: 00001938: 10:31:57 [TUniServerModule]:Starting HTTP Server...
+HRISWeb.exe: 00001938: 10:31:57 [TUniServerModule]:HTTP Server Started. Port: 8077
+HRISWeb.exe: 00001938: 10:32:47 [TUniServerModule]:Shutting Down Server.
+HRISWeb.exe: 00001290: 10:32:47 [Indy]:EIdNotConnected : Not Connected : Addr: $006B8032
+HRISWeb.exe: 00002994: 10:32:47 [Indy]:EIdNotConnected : Not Connected : Addr: $006B8032
+HRISWeb.exe: 0000152C: 10:32:47 [Indy]:EIdNotConnected : Not Connected : Addr: $006B8032
+HRISWeb.exe: 00001938: 10:32:48 [TUniServerModule]:HTTP Server Stopped.
+HRISWeb.exe: 00001938: 10:32:48 [TUniGUISessionManager]:Terminating Session manager.
+HRISWeb.exe: 00001938: 10:32:48 [TUniGUISessionManager]:Stopping Cache Eraser...
+HRISWeb.exe: 00001938: 10:32:48 [TUniGUISessionManager]:Cache Eraser Stopped.
+HRISWeb.exe: 00001938: 10:32:48 [TUniGUISessionManager]:Destroying Worker Threads.
+HRISWeb.exe: 00001938: 10:32:48 [TUniGUISessionManager]:Session manager terminated.
+HRISWeb.exe: 00001938: 10:32:48 [TUniServerModule]:Server Shutdown Completed.
+HRISWeb.exe: 00001938: 10:32:48 []:<-------------------------------------------------------------->
+HRISWeb.exe: 00001938: 10:32:48 [Terminated]:Exit Code: 0
+HRISWeb.exe: 00002D40: 12:46:21 []:>--------------------------------------------------------------<
+HRISWeb.exe: 00002D40: 12:46:21 [TUniServerModule]:Server First Init.
+HRISWeb.exe: 00002D40: 12:46:21 [TUniServerModule]:Erasing Cache Folder...
+HRISWeb.exe: 00002D40: 12:46:21 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+HRISWeb.exe: 00002D40: 12:46:21 [TUniServerModule]:Starting HTTP Server...
+HRISWeb.exe: 00002D40: 12:46:22 [TUniServerModule]:HTTP Server Started. Port: 8077
+HRISWeb.exe: 00002D40: 12:54:51 [TUniServerModule]:Shutting Down Server.
+HRISWeb.exe: 00002ED4: 12:54:51 [Indy]:EIdNotConnected : Not Connected : Addr: $006B8032
+HRISWeb.exe: 00002D40: 12:54:52 [TUniServerModule]:HTTP Server Stopped.
+HRISWeb.exe: 00002D40: 12:54:52 [TUniGUISessionManager]:Terminating Session manager.
+HRISWeb.exe: 00002D40: 12:54:52 [TUniGUISessionManager]:Stopping Cache Eraser...
+HRISWeb.exe: 00002D40: 12:54:52 [TUniGUISessionManager]:Cache Eraser Stopped.
+HRISWeb.exe: 00002D40: 12:54:52 [TUniGUISessionManager]:Destroying Worker Threads.
+HRISWeb.exe: 00002D40: 12:54:52 [TUniGUISessionManager]:Session manager terminated.
+HRISWeb.exe: 00002D40: 12:54:52 [TUniServerModule]:Server Shutdown Completed.
+HRISWeb.exe: 00002D40: 12:54:52 []:<-------------------------------------------------------------->
+HRISWeb.exe: 00002D40: 12:54:52 [Terminated]:Exit Code: 0
+HRISWeb.exe: 00001F28: 12:55:08 []:>--------------------------------------------------------------<
+HRISWeb.exe: 00001F28: 12:55:08 [TUniServerModule]:Server First Init.
+HRISWeb.exe: 00001F28: 12:55:08 [TUniServerModule]:Erasing Cache Folder...
+HRISWeb.exe: 00001F28: 12:55:08 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+HRISWeb.exe: 00001F28: 12:55:08 [TUniServerModule]:Starting HTTP Server...
+HRISWeb.exe: 00001F28: 12:55:08 [TUniServerModule]:HTTP Server Started. Port: 8077
+HRISWeb.exe: 00001F28: 12:55:40 [TUniServerModule]:Shutting Down Server.
+HRISWeb.exe: 000023D0: 12:55:41 [Indy]:EIdNotConnected : Not Connected : Addr: $006BAB8E
+HRISWeb.exe: 00001650: 12:55:41 [Indy]:EIdNotConnected : Not Connected : Addr: $006BAB8E
+HRISWeb.exe: 00001174: 12:55:41 [Indy]:EIdNotConnected : Not Connected : Addr: $006BAB8E
+HRISWeb.exe: 00001F28: 12:55:41 [TUniServerModule]:HTTP Server Stopped.
+HRISWeb.exe: 00001F28: 12:55:41 [TUniGUISessionManager]:Terminating Session manager.
+HRISWeb.exe: 00001F28: 12:55:41 [TUniGUISessionManager]:Stopping Cache Eraser...
+HRISWeb.exe: 00001F28: 12:55:41 [TUniGUISessionManager]:Cache Eraser Stopped.
+HRISWeb.exe: 00001F28: 12:55:41 [TUniGUISessionManager]:Destroying Worker Threads.
+HRISWeb.exe: 00001F28: 12:55:41 [TUniGUISessionManager]:Session manager terminated.
+HRISWeb.exe: 00001F28: 12:55:41 [TUniServerModule]:Server Shutdown Completed.
+HRISWeb.exe: 00001F28: 12:55:41 []:<-------------------------------------------------------------->
+HRISWeb.exe: 00001F28: 12:55:41 [Terminated]:Exit Code: 0

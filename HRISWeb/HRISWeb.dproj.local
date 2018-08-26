@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/04/03 10:31:47.000.552,=C:\Projects\HRIS v4\HRISWeb\MainModule.pas</Transaction>
+    <Transaction>2018/04/03 10:31:47.000.457,=C:\Projects\HRIS v4\HRISWeb\ServerModule.pas</Transaction>
+    <Transaction>2018/04/03 10:31:48.000.729,=C:\Projects\HRIS v4\HRISWeb\Main.pas</Transaction>
+    <Transaction>2018/04/03 10:33:09.000.251,=C:\Projects\HRIS v4\HRISWeb\Login.pas</Transaction>
+    <Transaction>2018/04/09 07:21:41.000.001,=C:\Projects\HRIS v4\HRISWeb\Unit1.pas</Transaction>
+    <Transaction>2018/04/09 07:35:40.000.500,=C:\Projects\HRIS v4\HRISWeb\Unit1.pas</Transaction>
+    <Transaction>2018/04/09 07:37:21.000.005,C:\Projects\HRIS v4\HRISWeb\EmployeeDrawer.pas=C:\Projects\HRIS v4\HRISWeb\Unit1.pas</Transaction>
+    <Transaction>2018/04/09 07:37:21.000.005,C:\Projects\HRIS v4\HRISWeb\EmployeeDrawer.dfm=C:\Projects\HRIS v4\HRISWeb\Unit1.dfm</Transaction>
+    <Transaction>2018/04/09 08:04:12.000.367,=C:\Projects\HRIS v4\HRISWeb\Unit1.pas</Transaction>
+    <Transaction>2018/04/09 08:04:27.000.081,C:\Projects\HRIS v4\HRISWeb\EmployeeMain.dfm=C:\Projects\HRIS v4\HRISWeb\Unit1.dfm</Transaction>
+    <Transaction>2018/04/09 08:04:27.000.081,C:\Projects\HRIS v4\HRISWeb\EmployeeMain.pas=C:\Projects\HRIS v4\HRISWeb\Unit1.pas</Transaction>
+    <Transaction>2018/04/09 12:19:12.000.533,=C:\Projects\HRIS v4\HRISWeb\WebUtils.pas</Transaction>
+    <Transaction>2018/04/09 12:19:44.000.294,C:\Projects\HRIS v4\HRISWeb\WebUtils.pas=</Transaction>
+    <Transaction>2018/04/10 10:07:51.000.864,=C:\Projects\HRIS v4\HRISWeb\Unit1.pas</Transaction>
+    <Transaction>2018/04/10 10:09:05.000.946,C:\Projects\HRIS v4\HRISWeb\Unit1.dfm=C:\Projects\HRIS v4\HRISWeb\WebAddressAndContact.dfm</Transaction>
+    <Transaction>2018/04/10 10:09:05.000.946,C:\Projects\HRIS v4\HRISWeb\Unit1.pas=C:\Projects\HRIS v4\HRISWeb\WebAddressAndContact.pas</Transaction>
+    <Transaction>2018/04/10 10:09:24.000.172,C:\Projects\HRIS v4\HRISWeb\EmployeeDrawer.pas=C:\Projects\HRIS v4\HRISWeb\WebEmployeeDrawer.pas</Transaction>
+    <Transaction>2018/04/10 10:09:24.000.172,C:\Projects\HRIS v4\HRISWeb\EmployeeDrawer.dfm=C:\Projects\HRIS v4\HRISWeb\WebEmployeeDrawer.dfm</Transaction>
+    <Transaction>2018/04/10 10:09:32.000.446,C:\Projects\HRIS v4\HRISWeb\EmployeeMain.pas=C:\Projects\HRIS v4\HRISWeb\WebEmployeeMain.pas</Transaction>
+    <Transaction>2018/04/10 10:09:32.000.446,C:\Projects\HRIS v4\HRISWeb\EmployeeMain.dfm=C:\Projects\HRIS v4\HRISWeb\WebEmployeeMain.dfm</Transaction>
+    <Transaction>2018/04/10 11:10:55.000.029,C:\Projects\HRIS v4\HRISWeb\Login.dfm=C:\Projects\HRIS v4\HRISWeb\WebLogin.dfm</Transaction>
+    <Transaction>2018/04/10 11:10:55.000.029,C:\Projects\HRIS v4\HRISWeb\Login.pas=C:\Projects\HRIS v4\HRISWeb\WebLogin.pas</Transaction>
+    <Transaction>2018/04/20 14:30:04.000.551,=C:\Projects\HRIS v4\HRISWeb\Unit1.pas</Transaction>
+    <Transaction>2018/04/20 14:30:22.000.591,C:\Projects\HRIS v4\HRISWeb\Unit1.pas=C:\Projects\HRIS v4\HRISWeb\WebFamilyAndRelatives.pas</Transaction>
+    <Transaction>2018/04/20 14:30:22.000.591,C:\Projects\HRIS v4\HRISWeb\Unit1.dfm=C:\Projects\HRIS v4\HRISWeb\WebFamilyAndRelatives.dfm</Transaction>
+    <Transaction>2018/04/21 08:33:26.000.345,C:\Projects\HRIS v4\HRISWeb\WebEmployeeDrawer.pas=</Transaction>
+    <Transaction>2018/04/21 08:34:01.000.614,C:\Projects\HRIS v4\HRISWeb\WebEmployeeMain.pas=</Transaction>
+    <Transaction>2018/04/21 08:34:24.000.808,C:\Projects\HRIS v4\HRISWeb\WebAddressAndContact.pas=</Transaction>
+    <Transaction>2018/04/21 08:34:30.000.043,C:\Projects\HRIS v4\HRISWeb\WebFamilyAndRelatives.pas=</Transaction>
+    <Transaction>2018/04/21 08:34:47.000.309,C:\Projects\HRIS v4\HRISWeb\WebMain.pas=C:\Projects\HRIS v4\HRISWeb\Main.pas</Transaction>
+    <Transaction>2018/04/21 08:34:47.000.309,C:\Projects\HRIS v4\HRISWeb\WebMain.dfm=C:\Projects\HRIS v4\HRISWeb\Main.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="MainModule.pas"/>
+    <File Path="MainModule.dfm"/>
+    <File Path="ServerModule.pas"/>
+    <File Path="ServerModule.dfm"/>
+    <File Path="WebLogin.pas"/>
+    <File Path="WebLogin.dfm"/>
+    <File Path="WebMain.pas"/>
+    <File Path="WebMain.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/08/21 13:34:35.000.701,=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/09/29 18:11:16.000.740,=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/01 12:28:54.000.618,=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/01 12:33:27.000.131,C:\Projects\HRIS v4\HRIS\Main.pas=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/02/01 12:33:27.000.131,C:\Projects\HRIS v4\HRIS\Main.dfm=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/02/01 12:34:15.000.199,C:\Projects\HRIS v4\HRIS\HRIS.dproj=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2018/02/01 12:49:04.000.268,=C:\Projects\HRIS v4\HRIS\Login.pas</Transaction>
+  </Transactions>
+</BorlandProject>

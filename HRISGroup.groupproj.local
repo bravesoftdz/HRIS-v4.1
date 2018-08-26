@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/01/18 11:05:35.000.632,C:\_Projects\Kiosk 2\KioskGroup.groupproj=C:\Users\BryanGarcia\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj</Transaction>
+    <Transaction>2018/02/01 11:52:12.000.499,C:\Projects\Kiosk\KioskGroup.groupproj=C:\Projects\Kiosk\HRISGroup.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\Projects\HRIS\SyncClient\SyncClient.dproj"/>
+	</Default.Personality>
+</BorlandProject>

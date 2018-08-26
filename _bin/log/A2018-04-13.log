@@ -1,0 +1,6 @@
+HRISWeb.exe: 000031EC: 10:07:50 []:>--------------------------------------------------------------<
+HRISWeb.exe: 000031EC: 10:07:50 [TUniServerModule]:Server First Init.
+HRISWeb.exe: 000031EC: 10:07:50 [TUniServerModule]:Erasing Cache Folder...
+HRISWeb.exe: 000031EC: 10:07:50 [TUniServerModule]:Cache Folder Erased. <0> Files deleted.
+HRISWeb.exe: 000031EC: 10:07:50 [TUniServerModule]:Starting HTTP Server...
+HRISWeb.exe: 000031EC: 10:07:50 [TUniServerModule]:HTTP Server Started. Port: 8077

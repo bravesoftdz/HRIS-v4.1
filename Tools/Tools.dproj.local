@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/01 15:33:54.000.468,=rtl.dcp</Transaction>
+    <Transaction>2017/04/04 06:32:49.000.832,=rtl.dcp</Transaction>
+    <Transaction>2017/04/04 06:35:24.000.472,C:\_Projects\Kiosk\Tools\Tools.dproj=C:\Users\BryanGarcia\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2017/04/04 06:36:56.000.486,=C:\_Projects\Kiosk\Base\BaseDocked.pas</Transaction>
+    <Transaction>2017/04/04 06:36:56.000.510,=C:\_Projects\Kiosk\Base\BaseForm.pas</Transaction>
+    <Transaction>2017/04/04 06:37:09.000.123,=C:\_Projects\Kiosk\Tools\Unit1.pas</Transaction>
+    <Transaction>2017/04/04 06:37:30.000.314,C:\_Projects\Kiosk\Tools\Unit1.dfm=C:\_Projects\Kiosk\Tools\SettingsMain.dfm</Transaction>
+    <Transaction>2017/04/04 06:37:30.000.314,C:\_Projects\Kiosk\Tools\Unit1.pas=C:\_Projects\Kiosk\Tools\SettingsMain.pas</Transaction>
+    <Transaction>2017/04/04 06:41:10.000.030,=vcl.dcp</Transaction>
+    <Transaction>2017/04/04 06:41:10.000.056,=RaizeComponentsVcl.dcp</Transaction>
+    <Transaction>2017/04/04 07:11:17.000.273,=C:\_Projects\Kiosk\Tools\Unit1.pas</Transaction>
+    <Transaction>2017/04/04 07:14:29.000.610,C:\_Projects\Kiosk\Tools\Unit1.pas=C:\_Projects\Kiosk\Tools\Settings.pas</Transaction>
+    <Transaction>2018/03/10 20:03:40.000.242,C:\Projects\HRIS v4\Base\BaseDocked.pas=C:\Projects\HRIS v4\Base\BaseDocked2.pas</Transaction>
+    <Transaction>2018/03/10 20:03:40.000.242,C:\Projects\HRIS v4\Base\BaseDocked.dfm=C:\Projects\HRIS v4\Base\BaseDocked2.dfm</Transaction>
+    <Transaction>2018/04/09 10:48:58.000.962,=vclimg.dcp</Transaction>
+    <Transaction>2018/04/09 10:48:58.000.999,=JvStdCtrls.dcp</Transaction>
+    <Transaction>2018/04/09 10:48:58.000.988,=JvCore.dcp</Transaction>
+    <Transaction>2018/04/09 10:48:58.000.975,=Jcl.dcp</Transaction>
+    <Transaction>2018/06/17 14:35:59.000.705,=adortl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

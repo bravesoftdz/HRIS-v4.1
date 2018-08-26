@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/03/15 15:10:43.000.030,=rtl.dcp</Transaction>
+    <Transaction>2018/03/15 15:12:55.000.297,C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Paf.dproj=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Package1.dproj</Transaction>
+    <Transaction>2018/03/15 15:15:18.000.999,=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 15:17:01.000.572,C:\Projects\HRIS v4\Paf\Paf.pas=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 15:18:34.000.542,=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 15:18:45.000.258,C:\Projects\HRIS v4\Paf\PafData.pas=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 15:18:45.000.258,C:\Projects\HRIS v4\Paf\PafData.dfm=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018/03/15 15:20:05.000.323,C:\Projects\HRIS v4\Paf\Paf1.dproj=C:\Users\Bryan - Lenovo\Documents\Embarcadero\Studio\Projects\Paf.dproj</Transaction>
+    <Transaction>2018/03/15 15:21:46.000.678,C:\Projects\HRIS v4\Paf\Paf.pas=</Transaction>
+    <Transaction>2018/03/15 15:21:52.000.070,C:\Projects\HRIS v4\Paf\Paf1.dproj=C:\Projects\HRIS v4\Paf\Paf.dproj</Transaction>
+    <Transaction>2018/03/15 15:23:03.000.666,=C:\Projects\HRIS v4\Paf\EmployeePaf.pas</Transaction>
+    <Transaction>2018/03/15 15:24:07.000.131,=C:\Projects\HRIS v4\Paf\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 15:24:25.000.951,C:\Projects\HRIS v4\Paf\Unit1.pas=C:\Projects\HRIS v4\Paf\PafController.pas</Transaction>
+    <Transaction>2018/03/15 17:02:19.000.750,C:\Projects\HRIS v4\Paf\EmployeePaf.pas=C:\Projects\HRIS v4\Paf\PafRecord.pas</Transaction>
+    <Transaction>2018/03/15 17:20:48.000.067,=C:\Projects\HRIS v4\Base\BaseDocked2.pas</Transaction>
+    <Transaction>2018/03/15 17:20:57.000.166,=C:\Projects\HRIS v4\Paf\Unit1.pas</Transaction>
+    <Transaction>2018/03/15 17:21:05.000.156,C:\Projects\HRIS v4\Paf\Unit1.pas=C:\Projects\HRIS v4\Paf\PafMain.pas</Transaction>
+    <Transaction>2018/03/15 17:21:05.000.156,C:\Projects\HRIS v4\Paf\Unit1.dfm=C:\Projects\HRIS v4\Paf\PafMain.dfm</Transaction>
+    <Transaction>2018/03/15 18:15:44.000.739,=JvStdCtrls.dcp</Transaction>
+    <Transaction>2018/03/15 18:15:44.000.671,=vcl.dcp</Transaction>
+    <Transaction>2018/03/15 18:15:44.000.685,=vclimg.dcp</Transaction>
+    <Transaction>2018/03/15 18:15:44.000.724,=JvCore.dcp</Transaction>
+    <Transaction>2018/03/15 18:15:44.000.711,=Jcl.dcp</Transaction>
+    <Transaction>2018/03/15 18:15:44.000.698,=RaizeComponentsVcl.dcp</Transaction>
+    <Transaction>2018/03/15 18:31:54.000.710,=vcldb.dcp</Transaction>
+    <Transaction>2018/03/15 18:31:54.000.725,=RaizeComponentsVclDb.dcp</Transaction>
+    <Transaction>2018/03/15 21:54:05.000.559,=dclstd.dcp</Transaction>
+    <Transaction>2018/03/15 21:54:05.000.546,=adortl.dcp</Transaction>
+    <Transaction>2018/03/18 10:18:49.000.294,=C:\Projects\HRIS v4\Base\BasePopup2.pas</Transaction>
+    <Transaction>2018/03/18 10:19:08.000.749,=C:\Projects\HRIS v4\Paf\Unit1.pas</Transaction>
+    <Transaction>2018/03/18 10:19:21.000.397,C:\Projects\HRIS v4\Paf\Unit1.pas=C:\Projects\HRIS v4\Paf\AllowanceDetails.pas</Transaction>
+    <Transaction>2018/03/18 10:19:21.000.397,C:\Projects\HRIS v4\Paf\Unit1.dfm=C:\Projects\HRIS v4\Paf\AllowanceDetails.dfm</Transaction>
+    <Transaction>2018/03/18 10:20:05.000.093,C:\Projects\HRIS v4\Base\BasePopup2.pas=</Transaction>
+    <Transaction>2018/03/18 10:24:31.000.307,=C:\Projects\HRIS v4\Base\BasePopupDetail2.pas</Transaction>
+    <Transaction>2018/03/18 10:25:02.000.771,=C:\Projects\HRIS v4\Paf\Unit1.pas</Transaction>
+    <Transaction>2018/03/18 10:25:44.000.903,C:\Projects\HRIS v4\Paf\AllowanceDetails.pas=</Transaction>
+    <Transaction>2018/03/18 10:25:50.000.357,C:\Projects\HRIS v4\Paf\Unit1.dfm=C:\Projects\HRIS v4\Paf\AllowanceDetails.dfm</Transaction>
+    <Transaction>2018/03/18 10:25:50.000.357,C:\Projects\HRIS v4\Paf\Unit1.pas=C:\Projects\HRIS v4\Paf\AllowanceDetails.pas</Transaction>
+    <Transaction>2018/04/01 22:07:03.000.961,=C:\Projects\HRIS v4\Paf\Unit1.pas</Transaction>
+    <Transaction>2018/04/01 22:08:20.000.537,C:\Projects\HRIS v4\Paf\PafListPending.pas=C:\Projects\HRIS v4\Paf\Unit1.pas</Transaction>
+    <Transaction>2018/04/01 22:08:20.000.538,C:\Projects\HRIS v4\Paf\PafListPending.dfm=C:\Projects\HRIS v4\Paf\Unit1.dfm</Transaction>
+    <Transaction>2018/06/17 14:35:46.000.664,=uniGUI25.dcp</Transaction>
+    <Transaction>2018/06/17 14:35:46.000.643,=soaprtl.dcp</Transaction>
+    <Transaction>2018/06/17 14:35:46.000.684,=uniGUI25Core.dcp</Transaction>
+    <Transaction>2018/06/17 14:35:46.000.726,=uIndy25.dcp</Transaction>
+    <Transaction>2018/06/17 14:35:46.000.706,=uniTools25.dcp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="..\..\HRIS v4"/>
+    <File Path="..\Base"/>
+    <File Path="..\Base\BaseDocked2.pas"/>
+    <File Path="..\Base\BaseDocked2.dfm"/>
+    <File Path="..\Base\BasePopupDetail2.pas"/>
+    <File Path="..\Base\BasePopupDetail2.dfm"/>
+    <File Path="AllowanceDetails.pas"/>
+    <File Path="AllowanceDetails.dfm"/>
+    <File Path="PafController.pas"/>
+    <File Path="PafData.pas"/>
+    <File Path="PafData.dfm"/>
+    <File Path="PafListPending.pas"/>
+    <File Path="PafListPending.dfm"/>
+    <File Path="PafMain.pas"/>
+    <File Path="PafMain.dfm"/>
+    <File Path="PafRecord.pas"/>
+    <File Path="adortl.dcp"/>
+    <File Path="dclstd.dcp"/>
+    <File Path="Jcl.dcp"/>
+    <File Path="JvCore.dcp"/>
+    <File Path="JvStdCtrls.dcp"/>
+    <File Path="RaizeComponentsVcl.dcp"/>
+    <File Path="RaizeComponentsVclDb.dcp"/>
+    <File Path="rtl.dcp"/>
+    <File Path="soaprtl.dcp"/>
+    <File Path="uIndy25.dcp"/>
+    <File Path="uniGUI25.dcp"/>
+    <File Path="uniGUI25Core.dcp"/>
+    <File Path="uniTools25.dcp"/>
+    <File Path="vcl.dcp"/>
+    <File Path="vcldb.dcp"/>
+    <File Path="vclimg.dcp"/>
+  </ProjectSortOrder>
+</BorlandProject>

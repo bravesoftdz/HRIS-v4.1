@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/09/01 15:33:54.000.468,=rtl.dcp</Transaction>
+    <Transaction>2017/03/16 16:05:02.000.132,=rtl.dcp</Transaction>
+    <Transaction>2017/03/16 16:08:38.000.079,=C:\Users\BryanGarcia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/03/16 16:08:42.000.538,=C:\Users\BryanGarcia\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2017/03/16 16:08:42.000.505,=C:\_Projects\Kiosk 2\Base\BaseDocked.pas</Transaction>
+    <Transaction>2017/03/16 16:10:06.000.705,C:\Users\BryanGarcia\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\_Projects\Kiosk 2\Synchronisation\SyncMain.dfm</Transaction>
+    <Transaction>2017/03/16 16:10:06.000.705,C:\Users\BryanGarcia\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\_Projects\Kiosk 2\Synchronisation\SyncMain.pas</Transaction>
+    <Transaction>2017/03/16 16:41:07.000.115,C:\Users\BryanGarcia\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\_Projects\Kiosk 2\Synchronisation\Synchronisation.dproj</Transaction>
+    <Transaction>2017/03/17 21:55:01.000.245,=vcl.dcp</Transaction>
+    <Transaction>2017/03/17 21:55:01.000.256,=RaizeComponentsVcl.dcp</Transaction>
+    <Transaction>2017/03/17 22:00:32.000.707,=RaizeComponentsVclDb.dcp</Transaction>
+    <Transaction>2017/03/17 22:00:32.000.682,=dbrtl.dcp</Transaction>
+    <Transaction>2017/03/17 22:00:32.000.695,=vcldb.dcp</Transaction>
+    <Transaction>2017/03/18 08:29:12.000.791,=C:\_Projects\Kiosk 2\Synchronisation\Unit1.pas</Transaction>
+    <Transaction>2017/03/18 08:29:38.000.529,C:\_Projects\Kiosk 2\Synchronisation\Unit1.pas=C:\_Projects\Kiosk 2\Synchronisation\SyncData.pas</Transaction>
+    <Transaction>2017/03/18 08:29:38.000.529,C:\_Projects\Kiosk 2\Synchronisation\Unit1.dfm=C:\_Projects\Kiosk 2\Synchronisation\SyncData.dfm</Transaction>
+    <Transaction>2017/03/18 09:53:11.000.795,=adortl.dcp</Transaction>
+    <Transaction>2017/03/18 10:02:23.000.308,=JvCore.dcp</Transaction>
+    <Transaction>2017/03/18 10:02:23.000.252,=vclimg.dcp</Transaction>
+    <Transaction>2017/03/18 10:02:23.000.336,=JvStdCtrls.dcp</Transaction>
+    <Transaction>2017/03/18 10:02:23.000.280,=Jcl.dcp</Transaction>
+    <Transaction>2017/07/20 23:27:56.000.859,=dclstd.dcp</Transaction>
+    <Transaction>2018/03/10 20:03:40.000.228,C:\Projects\HRIS v4\Base\BaseDocked.pas=C:\Projects\HRIS v4\Base\BaseDocked2.pas</Transaction>
+    <Transaction>2018/03/10 20:03:40.000.228,C:\Projects\HRIS v4\Base\BaseDocked.dfm=C:\Projects\HRIS v4\Base\BaseDocked2.dfm</Transaction>
+    <Transaction>2018/05/03 12:58:46.000.496,=uniGUI25.dcp</Transaction>
+    <Transaction>2018/05/03 12:58:46.000.481,=soaprtl.dcp</Transaction>
+    <Transaction>2018/05/03 12:58:46.000.518,=uniTools25.dcp</Transaction>
+    <Transaction>2018/05/03 12:58:46.000.530,=uIndy25.dcp</Transaction>
+    <Transaction>2018/05/03 12:58:46.000.508,=uniGUI25Core.dcp</Transaction>
+  </Transactions>
+</BorlandProject>

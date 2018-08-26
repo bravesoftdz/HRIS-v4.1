@@ -1,0 +1,192 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{186E12CE-F6C1-4362-8176-A1BEAAEBAA52}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Attendance\Attendance.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Base\Base.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Common\Common.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Employee\Employee.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Paf\Paf.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Security\Security.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Synchronisation\Synchronisation.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Tools\Tools.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\HRIS\SyncClient\SyncClient.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\HRIS\SyncClientDB\SyncClientDB.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="..\HRIS\SyncWeb\SyncWeb.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="Kiosk\Kiosk.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="HRIS\HRIS.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="HRISWeb\HRISWeb.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Attendance">
+        <MSBuild Projects="Attendance\Attendance.dproj"/>
+    </Target>
+    <Target Name="Attendance:Clean">
+        <MSBuild Projects="Attendance\Attendance.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Attendance:Make">
+        <MSBuild Projects="Attendance\Attendance.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Base">
+        <MSBuild Projects="Base\Base.dproj"/>
+    </Target>
+    <Target Name="Base:Clean">
+        <MSBuild Projects="Base\Base.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Base:Make">
+        <MSBuild Projects="Base\Base.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Common">
+        <MSBuild Projects="Common\Common.dproj"/>
+    </Target>
+    <Target Name="Common:Clean">
+        <MSBuild Projects="Common\Common.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Common:Make">
+        <MSBuild Projects="Common\Common.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Employee">
+        <MSBuild Projects="Employee\Employee.dproj"/>
+    </Target>
+    <Target Name="Employee:Clean">
+        <MSBuild Projects="Employee\Employee.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Employee:Make">
+        <MSBuild Projects="Employee\Employee.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Paf">
+        <MSBuild Projects="Paf\Paf.dproj"/>
+    </Target>
+    <Target Name="Paf:Clean">
+        <MSBuild Projects="Paf\Paf.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Paf:Make">
+        <MSBuild Projects="Paf\Paf.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Security">
+        <MSBuild Projects="Security\Security.dproj"/>
+    </Target>
+    <Target Name="Security:Clean">
+        <MSBuild Projects="Security\Security.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Security:Make">
+        <MSBuild Projects="Security\Security.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Synchronisation">
+        <MSBuild Projects="Synchronisation\Synchronisation.dproj"/>
+    </Target>
+    <Target Name="Synchronisation:Clean">
+        <MSBuild Projects="Synchronisation\Synchronisation.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Synchronisation:Make">
+        <MSBuild Projects="Synchronisation\Synchronisation.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Tools">
+        <MSBuild Projects="Tools\Tools.dproj"/>
+    </Target>
+    <Target Name="Tools:Clean">
+        <MSBuild Projects="Tools\Tools.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Tools:Make">
+        <MSBuild Projects="Tools\Tools.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SyncClient">
+        <MSBuild Projects="..\HRIS\SyncClient\SyncClient.dproj"/>
+    </Target>
+    <Target Name="SyncClient:Clean">
+        <MSBuild Projects="..\HRIS\SyncClient\SyncClient.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SyncClient:Make">
+        <MSBuild Projects="..\HRIS\SyncClient\SyncClient.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SyncClientDB">
+        <MSBuild Projects="..\HRIS\SyncClientDB\SyncClientDB.dproj"/>
+    </Target>
+    <Target Name="SyncClientDB:Clean">
+        <MSBuild Projects="..\HRIS\SyncClientDB\SyncClientDB.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SyncClientDB:Make">
+        <MSBuild Projects="..\HRIS\SyncClientDB\SyncClientDB.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="SyncWeb">
+        <MSBuild Projects="..\HRIS\SyncWeb\SyncWeb.dproj"/>
+    </Target>
+    <Target Name="SyncWeb:Clean">
+        <MSBuild Projects="..\HRIS\SyncWeb\SyncWeb.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="SyncWeb:Make">
+        <MSBuild Projects="..\HRIS\SyncWeb\SyncWeb.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Kiosk">
+        <MSBuild Projects="Kiosk\Kiosk.dproj"/>
+    </Target>
+    <Target Name="Kiosk:Clean">
+        <MSBuild Projects="Kiosk\Kiosk.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Kiosk:Make">
+        <MSBuild Projects="Kiosk\Kiosk.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="HRIS">
+        <MSBuild Projects="HRIS\HRIS.dproj"/>
+    </Target>
+    <Target Name="HRIS:Clean">
+        <MSBuild Projects="HRIS\HRIS.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="HRIS:Make">
+        <MSBuild Projects="HRIS\HRIS.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="HRISWeb">
+        <MSBuild Projects="HRISWeb\HRISWeb.dproj"/>
+    </Target>
+    <Target Name="HRISWeb:Clean">
+        <MSBuild Projects="HRISWeb\HRISWeb.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="HRISWeb:Make">
+        <MSBuild Projects="HRISWeb\HRISWeb.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Attendance;Base;Common;Employee;Paf;Security;Synchronisation;Tools;SyncClient;SyncClientDB;SyncWeb;Kiosk;HRIS;HRISWeb"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Attendance:Clean;Base:Clean;Common:Clean;Employee:Clean;Paf:Clean;Security:Clean;Synchronisation:Clean;Tools:Clean;SyncClient:Clean;SyncClientDB:Clean;SyncWeb:Clean;Kiosk:Clean;HRIS:Clean;HRISWeb:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Attendance:Make;Base:Make;Common:Make;Employee:Make;Paf:Make;Security:Make;Synchronisation:Make;Tools:Make;SyncClient:Make;SyncClientDB:Make;SyncWeb:Make;Kiosk:Make;HRIS:Make;HRISWeb:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
